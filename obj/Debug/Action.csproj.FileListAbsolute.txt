@@ -1,7 +1,0 @@
-C:\Users\simio\source\repos\Lambda expressions\bin\Debug\Lambda expressions.exe.config
-C:\Users\simio\source\repos\Lambda expressions\bin\Debug\Lambda expressions.exe
-C:\Users\simio\source\repos\Lambda expressions\bin\Debug\Lambda expressions.pdb
-C:\Users\simio\source\repos\Lambda expressions\obj\Debug\Action.csproj.AssemblyReference.cache
-C:\Users\simio\source\repos\Lambda expressions\obj\Debug\Action.csproj.CoreCompileInputs.cache
-C:\Users\simio\source\repos\Lambda expressions\obj\Debug\Lambda expressions.exe
-C:\Users\simio\source\repos\Lambda expressions\obj\Debug\Lambda expressions.pdb
