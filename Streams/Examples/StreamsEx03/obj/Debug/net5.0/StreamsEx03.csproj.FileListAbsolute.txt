@@ -1,0 +1,16 @@
+C:\Users\Computer\source\repos\StreamsEx03\bin\Debug\net5.0\StreamsEx03.exe
+C:\Users\Computer\source\repos\StreamsEx03\bin\Debug\net5.0\StreamsEx03.deps.json
+C:\Users\Computer\source\repos\StreamsEx03\bin\Debug\net5.0\StreamsEx03.runtimeconfig.json
+C:\Users\Computer\source\repos\StreamsEx03\bin\Debug\net5.0\StreamsEx03.runtimeconfig.dev.json
+C:\Users\Computer\source\repos\StreamsEx03\bin\Debug\net5.0\StreamsEx03.dll
+C:\Users\Computer\source\repos\StreamsEx03\bin\Debug\net5.0\ref\StreamsEx03.dll
+C:\Users\Computer\source\repos\StreamsEx03\bin\Debug\net5.0\StreamsEx03.pdb
+C:\Users\Computer\source\repos\StreamsEx03\obj\Debug\net5.0\StreamsEx03.csproj.AssemblyReference.cache
+C:\Users\Computer\source\repos\StreamsEx03\obj\Debug\net5.0\StreamsEx03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\source\repos\StreamsEx03\obj\Debug\net5.0\StreamsEx03.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\StreamsEx03\obj\Debug\net5.0\StreamsEx03.AssemblyInfo.cs
+C:\Users\Computer\source\repos\StreamsEx03\obj\Debug\net5.0\StreamsEx03.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\StreamsEx03\obj\Debug\net5.0\StreamsEx03.dll
+C:\Users\Computer\source\repos\StreamsEx03\obj\Debug\net5.0\ref\StreamsEx03.dll
+C:\Users\Computer\source\repos\StreamsEx03\obj\Debug\net5.0\StreamsEx03.pdb
+C:\Users\Computer\source\repos\StreamsEx03\obj\Debug\net5.0\StreamsEx03.genruntimeconfig.cache
